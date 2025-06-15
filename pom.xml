@@ -4,7 +4,7 @@
     <groupId>udistrital.edu.co</groupId>
     <artifactId>Modelos</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>Modelos-1.0-SNAPSHOT</name>
     
     <properties>
