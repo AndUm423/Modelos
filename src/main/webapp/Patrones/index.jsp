@@ -28,7 +28,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><a href="MFServlet">Metodo Factory</a></td>
+                    <td><a href="FMServlet">Metodo Factory</a></td>
                     <td><a href="">Composite</a></td>
                     <td><a href="">Command</a></td>
                 </tr>
