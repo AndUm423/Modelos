@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Prototype</title>
     </head>
     <body>
             <body>
@@ -12,7 +12,7 @@
 
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/Prototype.png" alt="DiagramaMF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/Prototype.png" alt="Diagrama"/>
         <hr/>
     </body>
 </html>

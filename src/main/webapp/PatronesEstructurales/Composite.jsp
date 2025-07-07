@@ -10,7 +10,7 @@
 
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/Composite.png" alt="DiagramaMF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/Composite.png" alt="Diagrama"/>
         <hr/>
         <p></p>
     </body>
