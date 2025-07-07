@@ -29,53 +29,53 @@
             <tbody>
                 <tr>
                     <td><a href="FMServlet">Metodo Factory</a></td>
-                    <td><a href="">Composite</a></td>
-                    <td><a href="">Command</a></td>
+                    <td><a href="CompositeServlet">Composite</a></td>
+                    <td><a href="CommandServlet">Command</a></td>
                 </tr>
                 <tr>
                     <td><a href="AFServlet">Abstract Factory</a></td>
-                    <td><a href="">Proxy</a></td>
-                    <td><a href="">Iterator</a></td>
+                    <td><a href="ProxyServlet">Proxy</a></td>
+                    <td><a href="IteratorServlet">Iterator</a></td>
                 </tr>
                 <tr>
-                    <td><a href="">Singleton</a></td>
-                    <td><a href="">Facade</a></td>
-                    <td><a href="">Mediator</a></td>
+                    <td><a href="SingletonServlet">Singleton</a></td>
+                    <td><a href="FacadeServlet">Facade</a></td>
+                    <td><a href="MediatorServlet">Mediator</a></td>
                 </tr>
                 <tr>
-                    <td><a href="">Prototype</a></td>
-                    <td><a href="">Decorator</a></td>
-                    <td><a href="">Memento</a></td>
+                    <td><a href="PrototypeServlet">Prototype</a></td>
+                    <td><a href="DecoratorServlet">Decorator</a></td>
+                    <td><a href="MementoServlet">Memento</a></td>
                 </tr>
                 <tr>
                     <td><a href="BuildServlet">Builder</a></td>
-                    <td><a href="">Bridge</a></td>
-                    <td><a href="">Observer</a></td>
+                    <td><a href="BridgeServlet">Bridge</a></td>
+                    <td><a href="ObserverServlet">Observer</a></td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><a href="">Adater</a></td>
-                    <td><a href="">State</a></td>
+                    <td><a href="AdapterServlet">Adater</a></td>
+                    <td><a href="StateServlet">State</a></td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><a href="">Flyweight</a></td>
-                    <td><a href="">Visitor</a></td>
+                    <td><a href="FlyweightServlet">Flyweight</a></td>
+                    <td><a href="VisitorServlet">Visitor</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><a href="CoRServlet">Chain Of Responsibility</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><a href="StrategyServlet">Strategy</a></td>
                 </tr>
                 <tr>
                     <td></td>
                     <td><a href=""></a></td>
-                    <td><a href="">Chain Of Responsibility</a></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td><a href=""></a></td>
-                    <td><a href="">Strategy</a></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td><a href=""></a></td>
-                    <td><a href="">Template Method</a></td>
+                    <td><a href="TMServlet">Template Method</a></td>
                 </tr>
                 
             </tbody>
