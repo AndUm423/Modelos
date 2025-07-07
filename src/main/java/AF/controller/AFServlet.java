@@ -64,6 +64,7 @@ public class AFServlet extends HttpServlet {
                 break;
         }
 
+        // t
         // Reenviar a la misma page con el resultado como atributo
         request.setAttribute("resultadoAF", resultado);
         request.getRequestDispatcher("/Patrones/AbsFactory.jsp").forward(request, response);
