@@ -17,5 +17,22 @@ public class PrototypeServlet extends HttpServlet {
         dispatcher = request.getRequestDispatcher("/Patrones/Prototype.jsp");
         dispatcher.forward(request, response);
     }
+   
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    @Override
+    public String getServletInfo() {
+        return "Short description";
+    }// </editor-fold>
 
 }
