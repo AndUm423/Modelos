@@ -43,7 +43,7 @@
         
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/imagen.jpg" alt="DiagramaAF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/AFclass.jpg" alt="DiagramaAF"/>
         
     </body>
 </html>
