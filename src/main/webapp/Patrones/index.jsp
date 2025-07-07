@@ -54,14 +54,30 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td></td>
+                    <td><a href="">Adater</a></td>
                     <td><a href="">State</a></td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td></td>
+                    <td><a href="">Flyweight</a></td>
                     <td><a href="">Visitor</a></td>
                 </tr>
+                <tr>
+                    <td></td>
+                    <td><a href=""></a></td>
+                    <td><a href="">Chain Of Responsibility</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><a href=""></a></td>
+                    <td><a href="">Strategy</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><a href=""></a></td>
+                    <td><a href="">Template Method</a></td>
+                </tr>
+                
             </tbody>
         </table>
         
