@@ -1,4 +1,3 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -7,12 +6,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-            <body>
-        <h1>Patron Prototype!</h1>
+        <h1>Patron Facade!</h1>
 
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/Prototype.png" alt="DiagramaMF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/Facade.png" alt="Diagrama"/>
         <hr/>
+        <p></p>
     </body>
 </html>

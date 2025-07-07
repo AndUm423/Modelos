@@ -1,18 +1,17 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Flyweight</title>
     </head>
     <body>
-            <body>
-        <h1>Patron Prototype!</h1>
+        <h1>Patron Flyweight!</h1>
 
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/Prototype.png" alt="DiagramaMF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/Flyweight.png" alt="Diagrama"/>
         <hr/>
+        <p></p>
     </body>
 </html>

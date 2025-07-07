@@ -40,7 +40,7 @@
         
         <hr/>
         <h3>Diagrama Clases:</h3>
-        <img src="<%= request.getContextPath() %>/Diagramas/imagen.jpg" alt="DiagramaMF"/>
+        <img src="<%= request.getContextPath() %>/Diagramas/Builder.jpg" alt="DiagramaMF"/>
         
     </body>
 </html>
